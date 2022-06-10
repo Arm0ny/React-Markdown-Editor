@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/markup_editor.iml" filepath="$PROJECT_DIR$/.idea/markup_editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quotes_app/.idea/quotes_app.iml" filepath="$PROJECT_DIR$/../quotes_app/.idea/quotes_app.iml" />
     </modules>
   </component>
 </project>
