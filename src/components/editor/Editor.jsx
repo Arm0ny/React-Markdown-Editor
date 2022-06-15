@@ -11,7 +11,7 @@ class Editor extends Component{
         this.state = {
             input: 'This is your preview'
         }
-        const handleChange = this.handleChange.bind(this);
+        this.handleChange = this.handleChange.bind(this);
     }
 
     handleChange = (event) => {
